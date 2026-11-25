@@ -12,8 +12,8 @@ Get the latest version from **Releases** (on the right of this page):
 
 | Your computer | Download |
 |---|---|
-| Windows 10 or 11 | `IdeaForgeX-1.0.0-windows.zip` |
-| Mac with Apple silicon (M1 or newer), macOS 13+ | `IdeaForgeX-1.0.0-mac.zip` |
+| Windows 10 or 11 | `IdeaForgeX-1.0.1-windows.zip` |
+| Mac with Apple silicon (M1 or newer), macOS 13+ | `IdeaForgeX-1.0.1-mac.zip` |
 
 Then follow **QUICKSTART.pdf** (inside the download): install, turn on Claude, and save your first idea.
 
